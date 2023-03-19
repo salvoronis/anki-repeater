@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 postgres = "0.19.4"
 shaku = "0.6.0"
+redis = "0.22.3"
